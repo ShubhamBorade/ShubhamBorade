@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Swiggy_Clone](https://tourmaline-gingersnap-33e310.netlify.app/)
 
-- 🌱 I’m currently learning **React, Redux , TypeScript**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://portfolioofshubham.netlify.app/](https://portfolioofshubham.netlify.app/)
 
