@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolioofshubham.netlify.app/](https://portfolioofshubham.netlify.app/)
 
-- 💬 Ask me about **React , JavaScript, TailwindCSS**
+- 💬 Ask me about **React , Redux , JavaScript, TailwindCSS**
 
 - 📫 How to reach me **shubhamborade14899@gmail.com**
 
